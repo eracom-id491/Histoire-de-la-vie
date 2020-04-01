@@ -1,11 +1,13 @@
 
-body{
-	font-family: 'Roboto', sans-serif;
-	background-color: black;
-	color: white;
-}
-
-.container
+#Histoire
 {
-margin-top: 10rem;
+	margin-top: 6rem;
+}
+#Lien
+{
+	margin-top: 10rem;
+}
+body
+{
+	background-color: black;
 }
