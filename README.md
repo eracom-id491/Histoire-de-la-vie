@@ -14,6 +14,9 @@ Le but est donc d'écrire une histoire composée de suites d'actions logiques qu
 * Garder une même identité graphique et visuel dans l'ensemble du projet
 * Savoir rediriger une page web vers une autre
 * Écrire une histoire fun qui garde des suites d'évènements logiques
+#### Répartition des tâches
+Voici le tableau des rôles et des taches que chacun doit accomplir dans la joie et la bonne humeur.   
+![Tableau](tableau2.jpg)
 # 
 *Pour toutes questions ou propositions de choses à rajouter sur ce Readme, n'hésitez pas à me contacter.*
 
