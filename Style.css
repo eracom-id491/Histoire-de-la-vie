@@ -1,17 +1,41 @@
 
 #Titre
 {
-	margin-top: 2rem;
-}
-#Histoire
-{
 	margin-top: 3rem;
+}
+#Histoire h1
+{
+	margin-top: 4rem;
+	font-size: 24px;
 }
 #Lien
 {
-	margin-top: 10rem;
+	margin-top: 3rem;
+	text-decoration: none;
 }
+
+#PageSuivante
+{
+	margin-top: 1rem;
+}
+
+a:link, a:active, a:hover
+{
+  background-color: red;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  display: inline-block;
+}
+
 body
 {
-	background-color: black;
+
+}
+
+header
+{
+
 }
