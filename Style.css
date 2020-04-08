@@ -10,20 +10,20 @@
 }
 #Lien
 {
-	margin-top: 3rem;
+	margin-top: 2rem;
 	text-decoration: none;
 }
 
 #PageSuivante
 {
-	margin-top: 1rem;
+	margin-top: 2rem;
 }
 
 a:link, a:active, a:hover
 {
   background-color: red;
   color: white;
-  padding: 14px 25px;
+  padding: 10px 15px;
   text-align: center;
   text-decoration: none;
   border-radius: 8px;
@@ -32,7 +32,7 @@ a:link, a:active, a:hover
 
 body
 {
-
+	background-color: black;
 }
 
 header
