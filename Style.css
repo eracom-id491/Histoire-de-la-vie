@@ -1,3 +1,9 @@
+html body {
+  box-shadow: 0px 0px 20vmin rgba(0, 0, 0, 0.5) inset;
+  background-color: rgba(20, 20, 20, 1);
+  padding-top: 1px;
+  min-height: 100vh;
+}
 
 #Titre {
   margin-top: 5rem;
@@ -35,11 +41,6 @@ a:hover {
   text-decoration: none;
   border-radius: 8px;
   display: inline-block;
-}
-
-html body
-{
-	background-color: rgba(20,20,20,1);
 }
 
 header {
